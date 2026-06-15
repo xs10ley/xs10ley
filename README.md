@@ -82,6 +82,5 @@ Scaling **stopbot.net**'s data layer under load: a **Redis verdict cache** (epoc
 ### 🔗 Connect
 
 - 🌐 Website — [stopbot.net](https://stopbot.net)
-- 📫 Email — `you@example.com` <!-- ganti -->
-- 🐦 X / Twitter — [@handle](https://x.com/handle) <!-- ganti -->
-- 💼 LinkedIn — [/in/handle](https://linkedin.com/in/handle) <!-- ganti -->
+- 📫 Email — `xs10nley [_ @ .] gmail.com` <!-- ganti -->
+- 🐦 X / Twitter — [@handle](https://x.com/xs10ley)
