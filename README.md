@@ -1,10 +1,3 @@
-<!--
-  GitHub Profile README
-  PENTING: repo ini harus bernama PERSIS sama dengan username GitHub-mu
-  (contoh: jika username = stanley, repo = stanley/stanley), dan file ini = README.md di root.
-  Ganti semua "YOUR_USERNAME" dan placeholder kontak di bawah.
--->
-
 <h1 align="center">Hi, I'm Stanley 👋</h1>
 
 <p align="center">
@@ -81,6 +74,7 @@ Scaling **stopbot.net**'s data layer under load: a **Redis verdict cache** (epoc
 
 ### 🔗 Connect
 
-- 🌐 Website — [stopbot.net](https://stopbot.net)
+- 🌐 Website — [stopbot.net](https://stopbot.net) | [xstandlee.com](https://xstandlee.com)
 - 📫 Email — `xs10nley [_ @ .] gmail.com` <!-- ganti -->
 - 🐦 X / Twitter — [@handle](https://x.com/xs10ley)
+- 📸 Instagram — [xstandlee](https://www.instagram.com/xstandlee)
